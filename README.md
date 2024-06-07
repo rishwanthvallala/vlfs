@@ -3,9 +3,15 @@
 The Lost and Found Information System comprises two modules: Public and Management sites.
 
 ## Management Site
+
+![Management Site Image](assets/img/admin_page.png)
+
 Accessible only to system administrators and staff, it requires valid credentials for access. Administrators manage system data, including user lists, categories, items, and system information. Staff members have limited permissions. Additionally, the management site enables dynamic updates to select public site content.
 
 ## Public Site
+
+![Public Site Image](assets/img/home_page.png)
+
 Visitors can explore published unclaimed items, view various page content, and send inquiries or concerns. The posted item list can be filtered by category for easy navigation.
 This web application simplifies lost and found item management, enhancing user experience and efficiency.
 
